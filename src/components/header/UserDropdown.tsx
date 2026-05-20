@@ -26,7 +26,7 @@ function toggleDropdown(e: React.MouseEvent<HTMLButtonElement, MouseEvent>) {
           <Image
             width={44}
             height={44}
-            src="/images/user/myphoto.jpg"
+            src=""
             alt="User"
           />
         </span>
