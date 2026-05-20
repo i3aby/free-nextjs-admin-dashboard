@@ -28,7 +28,7 @@ export default function UserAddressCard() {
                   Country
                 </p>
                 <p className="text-sm font-medium text-gray-800 dark:text-white/90">
-                  United States
+                  Pakistan
                 </p>
               </div>
 
@@ -37,7 +37,7 @@ export default function UserAddressCard() {
                   City/State
                 </p>
                 <p className="text-sm font-medium text-gray-800 dark:text-white/90">
-                  Phoenix, Arizona, United States.
+                  Islamabad, Pakistan.
                 </p>
               </div>
 
@@ -46,7 +46,7 @@ export default function UserAddressCard() {
                   Postal Code
                 </p>
                 <p className="text-sm font-medium text-gray-800 dark:text-white/90">
-                  ERT 2489
+                  44000
                 </p>
               </div>
 
@@ -55,7 +55,7 @@ export default function UserAddressCard() {
                   TAX ID
                 </p>
                 <p className="text-sm font-medium text-gray-800 dark:text-white/90">
-                  AS4568384
+                  Nil
                 </p>
               </div>
             </div>
@@ -99,12 +99,12 @@ export default function UserAddressCard() {
               <div className="grid grid-cols-1 gap-x-6 gap-y-5 lg:grid-cols-2">
                 <div>
                   <Label>Country</Label>
-                  <Input type="text" defaultValue="United States" />
+                  <Input type="text" defaultValue="Pakistan" />
                 </div>
 
                 <div>
                   <Label>City/State</Label>
-                  <Input type="text" defaultValue="Arizona, United States." />
+                  <Input type="text" defaultValue="Arizona, Pakistan." />
                 </div>
 
                 <div>
